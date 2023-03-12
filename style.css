@@ -1,0 +1,14 @@
+#banner{
+    background-image: url(images/hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.ban-mar{
+    padding-top: 75px;
+}
+.btn{
+    
+}
